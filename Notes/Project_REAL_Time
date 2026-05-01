@@ -1,0 +1,23 @@
+Projects/
+
+What we included:
+🔹 Project Title
+Java Tomcat Deployment using Jenkins CI/CD
+🔹 Tech Stack
+GitHub
+Jenkins
+Maven
+Tomcat
+Linux
+🔹 Project Flow
+1. Developer pushes code to GitHub
+2. Jenkins triggers pipeline
+3. Maven builds WAR file
+4. WAR deployed to Tomcat
+5. Application runs in browser
+🔹 Setup Steps
+Install Java
+Install Maven
+Setup Jenkins
+Configure Tomcat
+Create pipeline
